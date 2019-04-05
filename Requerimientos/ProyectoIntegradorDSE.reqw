@@ -1,0 +1,113 @@
+{
+  "id": "001",
+  "documents": [
+    {
+      "id": "DSE",
+      "guid": "8a9964a5-ee13-4e09-abaf-2da048b00931",
+      "name": "ProyectoIntegradorDSE",
+      "lastId": 2,
+      "createdOn": "2019-04-05T16:44:30.655Z",
+      "createdBy": {
+        "name": "Valdemar",
+        "email": "valde1hs@hotmail.com",
+        "company": "UTEQ"
+      },
+      "lastChangedOn": "2019-04-05T16:45:55.126Z",
+      "lastChangedBy": {
+        "name": "Valdemar",
+        "email": "valde1hs@hotmail.com",
+        "company": "UTEQ"
+      },
+      "data": [
+        {
+          "id": "1",
+          "guid": "60703903-3793-483e-a439-16cc47441fb4",
+          "heading": "Redacción de Requisitos",
+          "history": [
+            {
+              "affectedNodeId": "#",
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "valde1hs@hotmail.com",
+                "name": "Valdemar"
+              },
+              "changedOn": "2019-04-05T16:44:32.481Z",
+              "docId": "DSE",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "valde1hs@hotmail.com",
+                "name": "Valdemar"
+              },
+              "changedOn": "2019-04-05T16:45:29.662Z"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "guid": "c033238e-a0a2-4f87-a408-ff8c5c3654b5",
+          "history": [
+            {
+              "affectedNodeId": "#",
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "valde1hs@hotmail.com",
+                "name": "Valdemar"
+              },
+              "changedOn": "2019-04-05T16:45:55.125Z",
+              "docId": "DSE",
+              "structureAction": "Create"
+            }
+          ]
+        }
+      ],
+      "attributes": {
+      },
+      "view": {
+        "columns": [
+          {
+            "columnId": "id",
+            "hidden": false,
+            "width": 65
+          },
+          {
+            "columnId": "description",
+            "hidden": false,
+            "width": 500
+          },
+          {
+            "columnId": "attributes",
+            "hidden": true,
+            "width": 300
+          },
+          {
+            "columnId": "discussion",
+            "hidden": true,
+            "width": 300
+          },
+          {
+            "columnId": "links",
+            "hidden": true,
+            "width": 300
+          }
+        ]
+      }
+    }
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.3",
+    "saveHistory": true
+  }
+}
