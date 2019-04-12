@@ -1,0 +1,1365 @@
+{
+  "id": "05042019",
+  "documents": [
+    {
+      "id": "05042019",
+      "guid": "74ac6a60-3344-471f-89ec-b7bf2f991707",
+      "name": "ProyectoIntegradorDSE",
+      "lastId": 36,
+      "createdOn": "2019-04-05T16:24:13.613Z",
+      "createdBy": {
+        "name": "Maria Ochoa",
+        "email": "ochoa.carmen.dse@uteq.edu.mx",
+        "company": "UTEQ"
+      },
+      "lastChangedOn": "2019-04-12T18:00:20.087Z",
+      "lastChangedBy": {
+        "name": "Maria Ochoa",
+        "email": "ochoa.carmen.dse@uteq.edu.mx",
+        "company": "UTEQ"
+      },
+      "data": [
+        {
+          "id": "1",
+          "guid": "7a8a0505-28c1-4574-af6f-be06764940e9",
+          "heading": " REQUISITOS DEL PROYECTO INTEGRADOR DSE",
+          "history": [
+            {
+              "affectedNodeId": "#",
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-05T16:24:15.243Z",
+              "docId": "05042019",
+              "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-05T16:37:41.760Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "El propósito del proyecto será controlar..."
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-05T16:41:48.190Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "El propósito del proyecto será controlar la velocidad de un motor de corriente directa mediante la aplicación de una señal cuadrada que varía en su ancho de pulso y cuya frecuencia de trabajo será fija fo=10KHz. "
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-05T16:45:46.246Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "El propósito del proyecto será controlar la velocidad de un motor de corriente directa mediante la aplicación de una señal cuadrada que varía en su ancho de pulso y cuya frecuencia de trabajo será fija (10KHz).",
+                "text": null
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-05T16:48:04.624Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": null
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-05T17:01:36.564Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": "1. Requisitos generales y descripción del proyecto"
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-12T17:08:30.043Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p>El propósito del proyecto será controlar la velocidad de un motor de corriente directa mediante la aplicación de una señal cuadrada que varía en su ancho de pulso y cuya frecuencia de trabajo será fija (10KHz).</p><p>Mediante el uso de un sensor de efecto hall acoplado al rotor del motor se deberá medir la velocidad del motor el cual proveerá 15 pulsos cada que se complete una vuelta completa (así, a mayor velocidad del motor, mayor será el número de pulsos leídos, mientras que a menor velocidad, menor será el número de pulsos).&nbsp;<br />&nbsp;<br />El voltaje de alimentación del motor será de 12 Vcd.&nbsp;<br />&nbsp;<br />El valor de referencia o “SetPoint” (velocidad deseada) deberá estar dado por el ajuste de una resistencia variable (potenciómetro).&nbsp;</p>"
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-12T17:09:14.043Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": " Requisitos generales y descripción del proyecto"
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-12T17:14:49.026Z"
+            },
+            {
+              "attributesChanged": {
+                "heading": " Requisitos gene"
+              },
+              "changedBy": {
+                "company": "UTEQ",
+                "email": "ochoa.carmen.dse@uteq.edu.mx",
+                "name": "Maria Ochoa"
+              },
+              "changedOn": "2019-04-12T17:17:45.204Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "2",
+              "guid": "791095da-7a52-49bb-9968-ea8ac0cfaff4",
+              "heading": "Descripción del proyecto y requisitos generales",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:09:34.988Z",
+                  "docId": "05042019",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:09:48.327Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "RESHKI"
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:10:46.107Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:18:38.104Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>El propósito del proyecto será controlar la velocidad de un motor de corriente directa mediante la aplicación de una señal cuadrada que varía en su ancho de pulso y cuya frecuencia de trabajo será fija (10KHz).</p><p>Mediante el uso de un sensor de efecto hall acoplado al rotor del motor se deberá medir la velocidad del motor el cual proveerá 15 pulsos cada que se complete una vuelta completa (así, a mayor velocidad del motor, mayor será el número de pulsos leídos, mientras que a menor velocidad, menor será el número de pulsos).&nbsp;<br />&nbsp;<br />El voltaje de alimentación del motor será de 12 Vcd.&nbsp;<br />&nbsp;<br />El valor de referencia o “SetPoint” (velocidad deseada) deberá estar dado por el ajuste de una resistencia variable (potenciómetro).&nbsp;</p>"
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:19:00.031Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "4",
+                  "guid": "05dfdba9-1eaf-483a-886d-72f2f628603f",
+                  "text": "<p>El propósito del proyecto es controlar la velocidad de un motor de corriente directa mediante la aplicación de una señal cuadrada que varía en su ancho de pulso y cuya frecuencia de trabajo será fija (10KHz).</p><p>Mediante el uso de un sensor de efecto hall acoplado al rotor del motor se deberá medir la velocidad del motor el cual proveerá 15 pulsos cada que se complete una vuelta completa (así, a mayor velocidad del motor, mayor será el número de pulsos leídos, mientras que a menor velocidad, menor será el número de pulsos).&nbsp;<br />&nbsp;<br />El voltaje de alimentación del motor será de 12 Vcd.&nbsp;<br />&nbsp;<br />El valor de referencia o “SetPoint” (velocidad deseada) deberá estar dado por el ajuste de una resistencia variable (potenciómetro).&nbsp;</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "2",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:19:02.785Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:19:06.404Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>El propósito del proyecto será controlar la velocidad de un motor de corriente directa mediante la aplicación de una señal cuadrada que varía en su ancho de pulso y cuya frecuencia de trabajo será fija (10KHz).</p><p>Mediante el uso de un sensor de efecto hall acoplado al rotor del motor se deberá medir la velocidad del motor el cual proveerá 15 pulsos cada que se complete una vuelta completa (así, a mayor velocidad del motor, mayor será el número de pulsos leídos, mientras que a menor velocidad, menor será el número de pulsos).&nbsp;<br />&nbsp;<br />El voltaje de alimentación del motor será de 12 Vcd.&nbsp;<br />&nbsp;<br />El valor de referencia o “SetPoint” (velocidad deseada) deberá estar dado por el ajuste de una resistencia variable (potenciómetro).&nbsp;</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:51:32.554Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "guid": "afc14426-c6d1-43db-8b2d-149982e73cfd",
+              "heading": "Administración de riesgos",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:20:55.791Z",
+                  "docId": "05042019",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:21:10.003Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "7",
+                  "guid": "9ce2f312-f3b9-4111-9c67-3dad6c0d1e3c",
+                  "text": "<p>Los riesgos del proyecto se deberán de identificar a través de una matriz de riesgos.</p>",
+                  "attachments": [
+                    "05042019-7_1_AnalisisDeRiesgos.xlsx"
+                  ],
+                  "history": [
+                    {
+                      "affectedNodeId": "6",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:21:43.309Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:22:13.862Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Los riesgos del proyecto se tendrán que identificar a través de una matriz de riesgos.</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:25:03.689Z"
+                    },
+                    {
+                      "addedAttachment": "05042019-7_1_AnalisisDeRiesgos.xlsx",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:27:16.630Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "8",
+                  "guid": "0d896288-d99b-4d17-8896-f9e317133843",
+                  "text": "<p>Para cada riesgo, se deberá identificar su ocurrencia y su nivel de criticidad para la finalización del proyecto.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "6",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:22:25.807Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:22:46.672Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "9",
+              "guid": "775e7fb1-8dfd-4192-9713-d0f7bc5c3503",
+              "heading": "Mitigación de riesgos",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:22:51.760Z",
+                  "docId": "05042019",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:23:03.323Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "10",
+                  "guid": "5a3fbb5a-dd6f-4c23-90c3-33f1f71d14b1",
+                  "text": "<p>Cada riesgo deberá tener asignada una acción para mitigarlo o controlarlo.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "9",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:23:12.158Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:23:24.563Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "11",
+                  "guid": "c147f05d-ef9d-42a8-9c42-193b7e0e89d6",
+                  "text": "<p>Cada riesgo deberá tener asignado un responsable.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "9",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:23:32.286Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:24:00.009Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Cada riesgo deberá tener asignado un responsable</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:24:05.941Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "12",
+                  "guid": "4f2e45bb-b53e-41b7-ac36-672f77182db7",
+                  "text": "<p>Cada riesgo deberá identificar las áreas afectadas del proyecto.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "9",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:24:10.122Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:24:30.622Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Cada riesgo identificará las áreas afectadas del proyecto.</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:25:29.662Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "13",
+                  "guid": "931f0704-8da9-4af5-a05e-adbceeb0d6cd",
+                  "text": "<p>Cada riesgo deberá tener indicado su estatus, el cual puede ser uno de los siguientes:</p><ul><li>Monitoreado</li><li>Mitigado</li><li>Controlado</li><li>Resuelto</li></ul><p>Así mismo, se deberá especificar la resolución para el riego.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "9",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:25:50.656Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:26:22.015Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "14",
+                  "guid": "10802add-6b45-4227-968a-da7920db845b",
+                  "text": "<p>Los riesgos deberán ser monitoreados cada semana y deberán indicar la última fecha de monitoreo.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "9",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:26:39.367Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:26:45.798Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "15",
+              "guid": "d08dd992-9a1c-4f53-931f-0e1a5ef4c214",
+              "heading": "Registro de comunicación",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:27:55.881Z",
+                  "docId": "05042019",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:28:10.001Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "16",
+                  "guid": "b2353adb-394b-4ee8-bd5a-58ad52ad016a",
+                  "text": "<p>La comunicación con el cliente para discutir avances, cambios en el proyecto (entre otros), se debrá registrar en minutas.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "15",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:28:32.366Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:28:35.840Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>La comunicación con el cliente para discutir avances, cambios en el proyecto (entre otros), se registrará a través de minutas.</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:53:14.048Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "17",
+              "guid": "54031d1a-0aad-4a2d-b420-9a96ad2c0be4",
+              "heading": "Revisiones",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:28:45.305Z",
+                  "docId": "05042019",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:28:50.923Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "18",
+                  "guid": "8ea87806-5f7e-44f2-9fac-74bf9f957b7e",
+                  "text": "<p>Para las revisiones de sistema y de software, se deberá especificar lo que se revisará, quién será designado como revisor y el estatus de la revisión.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "17",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:28:58.468Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:29:22.555Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "19",
+                  "guid": "69f0eba0-1bea-46f1-862f-3672d1c9e979",
+                  "text": "<p>Para las revisiones de sistema, se deberá utilizar (el siguiente estándar/la siguiente lista/el siguiente criterio): <strong>POR DEFINIR</strong></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "17",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:29:37.998Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:30:32.960Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Para las revisiones de sistema, se utilizará (el siguiente estándar/la siguiente lista/el siguiente criterio): <strong>POR DEFINIR</strong></p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:53:32.322Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "20",
+                  "guid": "c24f9608-4bf0-4170-a82c-99d06159e315",
+                  "text": "<p>Para las revisiones de software, se deberá utilizar (el siguiente estándar/la siguiente lista/el siguiente criterio): <strong>POR DEFINIR</strong></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "17",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:31:03.394Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:31:24.634Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Para las revisiones de software, se utilizará (el siguiente estándar/la siguiente lista/el siguiente criterio): <strong>POR DEFINIR</strong></p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:53:49.546Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "21",
+                  "guid": "a7bf02e0-575e-41ee-918e-420b176c9420",
+                  "text": "<p>Se deberá llevar un registro de las fechas en las que se lleva a cabo la revisión.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "17",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:31:33.047Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:31:36.813Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "22",
+                  "guid": "4b96bbb2-c306-42f6-828a-9ceaa2ec3f44",
+                  "text": "<p>Las correcciones que se deriven de las revisiones deberán indicar lo siguiente:</p><ul><li>Acciones para llevar a cabo la corrección</li><li>Responsable de la corrección</li><li>Fecha para completar la corrección</li></ul>",
+                  "history": [
+                    {
+                      "affectedNodeId": "17",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:31:50.084Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:32:07.349Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "23",
+              "guid": "8fd05f9f-a32f-4aeb-9153-a64c34ee3a48",
+              "heading": "Control de cambios",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:32:13.840Z",
+                  "docId": "05042019",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:32:23.009Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "24",
+                  "guid": "5b46e2ef-8aaa-4d58-8c36-12cfd7112650",
+                  "text": "<p>Los cambios solicitados por el cliente en hardware, software o documentación deberán identificar lo siguiente:</p><ul><li>Sistema o documento impactado por el cambio.</li><li>Persona que solicitó el cambio.</li><li>Persona responsable de realizar el cambio.</li><li>Estatus del cambio.</li></ul>",
+                  "history": [
+                    {
+                      "affectedNodeId": "23",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:32:34.886Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:33:09.947Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "25",
+              "guid": "0762d05f-e5cd-4b07-a01b-133132fa6d84",
+              "heading": "Análisis del proyecto",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:33:18.741Z",
+                  "docId": "05042019",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:33:28.634Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "26",
+                  "guid": "77af448b-2e76-4fd9-b63d-c5a6355a53a7",
+                  "text": "<p>Se deberá registrar el análisis realizado para tomar decisiones que impacten al proyecto.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "25",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:33:42.069Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:33:45.157Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "27",
+                  "guid": "41307435-929c-4967-b753-0691b3bad4d7",
+                  "text": "<p>La documentación del análisis realizado deberá contener lo siguiente:</p><ul><li>Resultado del análisis</li><li>Sustento de la decisión</li><li>Riesgos potenciales</li></ul>",
+                  "history": [
+                    {
+                      "affectedNodeId": "25",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:33:56.386Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:34:15.646Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "28",
+              "guid": "5972766a-b96f-44ea-803e-63bfe164fa64",
+              "heading": "Requisitos del cliente",
+              "history": [
+                {
+                  "affectedNodeId": "1",
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:34:19.785Z",
+                  "docId": "05042019",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "UTEQ",
+                    "email": "ochoa.carmen.dse@uteq.edu.mx",
+                    "name": "Maria Ochoa"
+                  },
+                  "changedOn": "2019-04-12T17:34:26.768Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "29",
+                  "guid": "4a6f4050-29a8-41ef-a101-547144634f26",
+                  "text": "<p>Se deberá controlar la velocidad de un motor de corriente directa mediante la aplicación de una señal cuadrada que varía en su ancho de pulso y cuya frecuencia de trabajo será fija.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:34:29.509Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:34:45.386Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Se controlará la velocidad de un motor de corriente directa mediante la aplicación de una señal cuadrada que varía en su ancho de pulso y cuya frecuencia de trabajo será fija.</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:54:54.769Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "30",
+                  "guid": "71335aff-2c97-4cdf-81e5-9541f0639a68",
+                  "text": "<p>El módulo de potencia a utilizar deberá ser el CESEQ-C001.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:34:47.605Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:35:07.001Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>El módulo de potencia a utilizar será el CESEQ-C001</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:55:35.056Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "31",
+                  "guid": "ab8173d7-457e-44f5-ad5c-b69bbe9f66c4",
+                  "text": "<p>El módulo a controlar deberá ser CESEQ-P001.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:35:19.057Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:35:21.771Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>El módulo a controlar será CESEQ-P001</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:55:50.770Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "32",
+                  "guid": "cec040ed-4eef-4de3-aa6c-c33f0bfc7358",
+                  "text": "<p>El proyecto se deberá comenzar a trabajar el 22 de Marzo de 2019.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:35:36.975Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:35:39.348Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>El proyecto se comenzará a trabajar el 22 de Marzo de 2019.</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:56:15.715Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "33",
+                  "guid": "e0e9c462-9c62-4f9c-9dd7-37e86cd16284",
+                  "text": "<p>El proyecto se deberá completar el 31 de Julio de 2019.&nbsp; <strong>POR DEFINIR</strong></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:35:48.113Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:35:50.419Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>El proyecto se completará el 31 de Julio de 2019.</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:58:19.684Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "34",
+                  "guid": "41904733-fb93-410b-bc27-1d32564c12bf",
+                  "text": "<p>El dispositivo de control deberá ser la Tarjeta YSSKS7G2E30 de RENESAS.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:36:01.066Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:36:03.594Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>El dispositivo de control será el siguiente: Tarjeta YSSKS7G2E30 de RENESAS</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:58:50.077Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "35",
+                  "guid": "e79ee9a1-678d-4f80-ae9e-05c15e8e6d8b",
+                  "text": "<p>El dispositivo HMI deberá ser 320x240, 24”. <strong>ESPECIFICAR</strong></p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:36:14.204Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:36:18.779Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>El dispositivo HMI será el siguiente: 320x240, 24”</p>"
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T18:00:20.083Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "36",
+                  "guid": "336937bc-adf5-4c71-bc9d-03141ec74bad",
+                  "text": "<p>Durante el proyecto se deberá utilizar la metodología SCRUM.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "28",
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:36:34.380Z",
+                      "docId": "05042019",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "UTEQ",
+                        "email": "ochoa.carmen.dse@uteq.edu.mx",
+                        "name": "Maria Ochoa"
+                      },
+                      "changedOn": "2019-04-12T17:36:43.226Z"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attributes": {
+      },
+      "view": {
+        "columns": [
+          {
+            "columnId": "id",
+            "hidden": false,
+            "width": 65
+          },
+          {
+            "columnId": "description",
+            "hidden": false,
+            "width": 500
+          },
+          {
+            "columnId": "attributes",
+            "hidden": true,
+            "width": 300
+          },
+          {
+            "columnId": "discussion",
+            "hidden": true,
+            "width": 300
+          },
+          {
+            "columnId": "links",
+            "hidden": true,
+            "width": 300
+          }
+        ]
+      }
+    }
+  ],
+  "attachments": {
+    "05042019-7_1_AnalisisDeRiesgos.xlsx": {
+      "data": "data:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;base64,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"
+    }
+  },
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.3",
+    "saveHistory": true
+  }
+}
