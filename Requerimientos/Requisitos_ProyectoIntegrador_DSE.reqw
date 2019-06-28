@@ -5,14 +5,14 @@
       "id": "DSE",
       "guid": "8a9964a5-ee13-4e09-abaf-2da048b00931",
       "name": "ProyectoIntegradorDSE",
-      "lastId": 115,
+      "lastId": 117,
       "createdOn": "2019-04-05T16:44:30.655Z",
       "createdBy": {
         "name": "Valdemar",
         "email": "valde1hs@hotmail.com",
         "company": "UTEQ"
       },
-      "lastChangedOn": "2019-06-03T00:03:28.693Z",
+      "lastChangedOn": "2019-06-28T19:31:52.287Z",
       "lastChangedBy": {
         "name": "Valdemar",
         "email": "valde1hs@hotmail.com",
@@ -1795,9 +1795,50 @@
                       ]
                     },
                     {
+                      "id": "117",
+                      "guid": "7b045ca7-1e02-4b54-8450-06705ba6f8b2",
+                      "text": "<p>La pantalla LCD deberá cambiar la información que despliega al apretar un botón, intercambiando entre la opción de Desempeño y la opción de Diagnósticos.</p>",
+                      "tipo": "Funcional",
+                      "history": [
+                        {
+                          "affectedNodeId": "104",
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:29:38.755Z",
+                          "docId": "DSE",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:31:39.232Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "tipo": null
+                          },
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:31:52.278Z"
+                        }
+                      ]
+                    },
+                    {
                       "id": "92",
                       "guid": "8893ec08-5745-4355-a043-a65a0287d984",
-                      "text": "<p>La pantalla LCD deberá mostrar la velocidad del motor y SetPoint; así como el &nbsp;porcentaje de trabajo de la señal cuadrada.</p>",
+                      "text": "<p>Cuando la opción de Desempeño sea seleccionada, la pantalla LCD deberá mostrar la velocidad del motor y SetPoint; así como el porcentaje de trabajo de la señal cuadrada.</p>",
                       "tipo": "Funcional",
                       "history": [
                         {
@@ -1854,6 +1895,102 @@
                             "name": "Valdemar"
                           },
                           "changedOn": "2019-05-21T03:16:15.410Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<p>La pantalla LCD deberá mostrar la velocidad del motor y SetPoint; así como el &nbsp;porcentaje de trabajo de la señal cuadrada.</p>"
+                          },
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:25:45.144Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<p>La pantalla LCD deberá mostrar la velocidad del motor y SetPoint; así como el porcentaje de trabajo de la señal cuadrada.</p>"
+                          },
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:28:11.090Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<p>La pantalla LCD deberá mostrar la velocidad del motor y SetPoint; así como el porcentaje de trabajo de la señal cuadrada cuando la opción de Desempeño sea seleccionada.</p>"
+                          },
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:29:04.536Z"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "116",
+                      "guid": "6ef21bad-61c0-4c3c-9e17-80e09a9bacd7",
+                      "text": "<p>Cuando la opción de Diagnósticos sea seleccionada, la pantalla LCD deberá mostrar los datos de los diagnósticos.</p>",
+                      "tipo": "Funcional",
+                      "history": [
+                        {
+                          "affectedNodeId": "104",
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:26:00.104Z",
+                          "docId": "DSE",
+                          "structureAction": "Create"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": null
+                          },
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:27:32.452Z"
+                        },
+                        {
+                          "affectedNodeId": "104",
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:28:37.967Z",
+                          "docId": "DSE",
+                          "structureAction": "Cut"
+                        },
+                        {
+                          "attributesChanged": {
+                            "tipo": null
+                          },
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:28:47.381Z"
+                        },
+                        {
+                          "attributesChanged": {
+                            "text": "<p>La pantalla LCD deberá mostrar los datos de los diagnósticos cuando la opción de Diagnósticos sea seleccionada.</p>"
+                          },
+                          "changedBy": {
+                            "company": "UTEQ",
+                            "email": "valde1hs@hotmail.com",
+                            "name": "Valdemar"
+                          },
+                          "changedOn": "2019-06-28T19:29:24.238Z"
                         }
                       ]
                     },
